@@ -5,7 +5,7 @@
 
 English | [中文](README.md)
 
-Based on Hiroki's [ISLANDO](http://www.akina.pw/themeakina) theme modified on the theme [Siren](https://github.com/louie-senpai/Siren) three times =. =.
+Based on Hiroki's [ISLANDO](http://www.akina.pw/themeakina) theme modified theme [Siren]([https://github.com/louie-senpai/Siren](https://github.com/eeg1412/) Typecho_ISLAND/tree/master)) based on the second modification development =. =.
 
 The predecessor did a great job already, so I just continued to broaden this theme :)
 
