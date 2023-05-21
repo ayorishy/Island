@@ -5,11 +5,11 @@
 
 English | [中文](README.md)
 
-Based on Hiroki's [ISLANDO](http://www.akina.pw/themeakina) theme modified theme [Siren]([https://github.com/louie-senpai/Siren](https://github.com/eeg1412/) Typecho_ISLAND/tree/master)) based on the second modification development =. =.
+Based on Hiroki's [ISLANDO](https://www.wikimoe.com/?post=164) theme for secondary development =. =.
 
-The predecessor did a great job already, so I just continued to broaden this theme :)
-
+The previous generation has done a great job, so I just continue to broaden this theme :)
 
 Instructions for using the theme can be found at: <https://blog.nonly.cn>
 
 Hope you like it!
+
