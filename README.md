@@ -3,7 +3,7 @@
 
 中文 | [English](README-en.md)
 
-https://camo.githubusercontent.com/8b6a6bb9a0d659facd8e8e0b55df29d6e459a2c4cd77554a8dd9e29f9190e8d9/68747470733a2f2f696d616765732e67697465652e636f6d2f75706c6f6164732f696d616765732f323031382f303731312f3138343330385f35373731373363315f313235383239302e6a706567
+
 
 ![PHP version](https://img.shields.io/badge/PHP-7.1+-4F5B93.svg?style=flat-square&logo=php)
 ![WP version](https://img.shields.io/badge/WordPress-5.3-0073aa.svg?style=flat-square&logo=wordpress)
