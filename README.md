@@ -5,10 +5,9 @@
 
 中文 | [English](README-en.md)
 
-基于 广树 的 [ISLANDO](http://www.akina.pw/themeakina) 主题修改的主题 [Siren]([https://github.com/louie-senpai/Siren](https://github.com/eeg1412/Typecho_ISLAND/tree/master)) 基础上二次修改开发 =.=
+基于 广树 的 [ISLANDO](https://www.wikimoe.com/?post=164) 主题上进行二次修改开发 =.=
 
-前辈做得已经很厉害，所以我只是将这个主题继续拓宽 :)
-
+前辈做得已经非常厉害了，所以我只是将这个主题继续拓宽 :)
 
 主题使用说明见：<https://blog.nonly.cn>
 
