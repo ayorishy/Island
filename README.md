@@ -5,7 +5,7 @@
 
 中文 | [English](README-en.md)
 
-基于 广树 的 [ISLANDO](http://www.akina.pw/themeakina) 主题修改的主题 [Siren](https://github.com/louie-senpai/Siren) 基础上三次修改 =.=
+基于 广树 的 [ISLANDO](http://www.akina.pw/themeakina) 主题修改的主题 [Siren]([https://github.com/louie-senpai/Siren](https://github.com/eeg1412/Typecho_ISLAND/tree/master)) 基础上二次修改开发 =.=
 
 前辈做得已经很厉害，所以我只是将这个主题继续拓宽 :)
 
