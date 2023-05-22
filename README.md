@@ -9,6 +9,6 @@
 
 前辈做得已经非常厉害了，所以我只是将这个主题继续拓宽 :)
 
-主题使用说明见：<https://blog.nonly.cn>
+主题使用说明以及更新暂时在：<https://blog.nonly.cn/island.html> 更新
 
 希望你喜欢！
