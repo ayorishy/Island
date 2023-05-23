@@ -11,9 +11,24 @@
 
 [![GitHub release](https://img.shields.io/github/v/release/Inon1y/typecho-Island-theme.svg?style=for-the-badge&logo=appveyor)](https://github.com/Inon1y/typecho-Island-theme/releases/latest)[![GitHub Release Date](https://img.shields.io/github/release-date/Inon1y/typecho-Island-theme?style=for-the-badge&logo=appveyor)](https://github.com/mirai-mamori/Sakurairo/releases)![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Inon1y/typecho-Island-theme?style=for-the-badge&logo=appveyor)
 
-![Alt](https://repobeats.axiom.co/api/embed/292776675b642d6dc86f264f4b71ed411ee9be91.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/7a435662688447891fadc6fdfc7d28e58af8cbbf.svg "Repobeats analytics image")
 
+## 版本简介：
 
+[![image](https://s.nmxc.ltd/sakurairo_vision/@2.6/readme/cn-ver2.6.png)](https://fuukei.org//)
+
+## 下载及使用相关：
+
+- 你可以前往 [Github Release](https://github.com/mirai-mamori/Sakurairo/releases/latest) 或 [Gitee 镜像](https://gitee.com/mirai-mamori/Sakurairo) 下载
+
+- 使用本主题的博客：https://docs.fuukei.org/demo/
+
+- 主题交流：[QQ群:784229925](https://jq.qq.com/?_wv=1027&k=U5UJjRik)  ＆  [Telegram群:fksakurairo](https://t.me/fksakurairo)
+
+- 如果在使用过程中遇到了任何问题，请**访问**本主题的 [支持文档](https://docs.fuukei.org) 
+
+- 在确认你遇到的现象确实是一个 Bug 后，请在 [Issues](https://github.com/mirai-mamori/Sakurairo/issues/new/choose) 提交问题，并为该问题尽可能的描述清楚，
+按照提供的 issue 模板进行填写，谢谢配合。
 
 
 
