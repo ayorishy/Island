@@ -30,5 +30,6 @@
 - 在确认你遇到的现象确实是一个 Bug 后，请在 [Issues](https://github.com/Inon1y/Island/issues/new/choose) 提交问题，并为该问题尽可能的描述清楚，
 按照提供的 issue 模板进行填写，谢谢配合。
 
+
 ## 捐赠
 如果你觉得 Island 主题不错，可以请我一杯咖啡来支持我的开发。
