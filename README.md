@@ -15,19 +15,19 @@
 
 ## 版本简介：
 
-[![image](https://s.nmxc.ltd/sakurairo_vision/@2.6/readme/cn-ver2.6.png)](https://fuukei.org//)
+Version: 0.0.1
 
 ## 下载及使用相关：
 
-- 你可以前往 [Github Release](https://github.com/mirai-mamori/Sakurairo/releases/latest) 或 [Gitee 镜像](https://gitee.com/mirai-mamori/Sakurairo) 下载
+- 你可以前往 [Github Release](https://github.com/Inon1y/typecho-Island-theme/releases/latest) 下载
 
-- 使用本主题的博客：https://docs.fuukei.org/demo/
+- 使用本主题的博客：https://blog.nonly.cn
 
-- 主题交流：[QQ群:784229925](https://jq.qq.com/?_wv=1027&k=U5UJjRik)  ＆  [Telegram群:fksakurairo](https://t.me/fksakurairo)
+- 主题交流：[QQ群:740328933](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=5PwThDNZPcUkYu-t1Ltk735AgIUn7Pf2&authKey=WiVtQ%2BB6uPURqupbfpHkbf0hk2AbffVokTQsz%2Flt4KN7zSq8MI9ydR9VtPzpzJwd&noverify=0&group_code=740328933)
 
-- 如果在使用过程中遇到了任何问题，请**访问**本主题的 [支持文档](https://docs.fuukei.org) 
+- 如果在使用过程中遇到了任何问题，请**访问**本主题的 [支持博客](https://blog.nonly.cn/island.html) 
 
-- 在确认你遇到的现象确实是一个 Bug 后，请在 [Issues](https://github.com/mirai-mamori/Sakurairo/issues/new/choose) 提交问题，并为该问题尽可能的描述清楚，
+- 在确认你遇到的现象确实是一个 Bug 后，请在 [Issues](https://github.com/Inon1y/typecho-Island-theme/issues/new/choose) 提交问题，并为该问题尽可能的描述清楚，
 按照提供的 issue 模板进行填写，谢谢配合。
 
 
