@@ -1,4 +1,4 @@
-﻿ISLAND🌸: ISLANDO 博客主题
+﻿TYPECHO: ISLANDO 博客主题
 ===
 
 ![预览图](https://images.gitee.com/uploads/images/2018/0711/184308_577173c1_1258290.jpeg "ISLAND_SAMPLE.jpg")
@@ -32,7 +32,7 @@
 
 ## 更新日志：
 
-## 20230523 v0.1.1
+## 20230522 v0.1.1
 
 新增:
 + 自定义字体样式
