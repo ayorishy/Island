@@ -15,7 +15,7 @@
 
 ## 主题简介：
 
-基于 广树 的 [ISLANDO](https://www.wikimoe.com/?post=164) 主题上进行二次修改开发
+基于 广树 的 [ISLAND](https://www.wikimoe.com/?post=164) 主题上进行二次修改开发
 
 ## 下载及使用相关：
 
