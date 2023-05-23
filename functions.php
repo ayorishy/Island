@@ -207,10 +207,9 @@ function themeConfig($form): void
 	
 			<div class="mdui-card shadow-A1" style="background-color: rgb(130 123 123 / 14%);">
 				<div class="mdui-card-content">
-					<center><span>加入我的Kook服务器进行交流： <a style="text-decoration: none;color:#e30e8c;" href="https://kook.top/KX4cQx">点击加入Kook服务器频道</a></span></center>
-				</div>
-								<div class="mdui-card-content">
-					<center><span>加入我的QQ群进行交流： <a style="text-decoration: none;color:#e30e8c;" href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=5PwThDNZPcUkYu-t1Ltk735AgIUn7Pf2&authKey=WiVtQ%2BB6uPURqupbfpHkbf0hk2AbffVokTQsz%2Flt4KN7zSq8MI9ydR9VtPzpzJwd&noverify=0&group_code=740328933">点击加入QQ群</a></span></center>
+					<center><span>加入我的Kook服务器进行交流： <a style="text-decoration: none;color:#e30e8c;" href="https://kook.top/KX4cQx">点击加入Kook服务器频道</a></span>
+					<br /><span>加入我的QQ群进行交流： <a style="text-decoration: none;color:#e30e8c;" href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=5PwThDNZPcUkYu-t1Ltk735AgIUn7Pf2&authKey=WiVtQ%2BB6uPURqupbfpHkbf0hk2AbffVokTQsz%2Flt4KN7zSq8MI9ydR9VtPzpzJwd&noverify=0&group_code=740328933">点击加入QQ群</a></span>
+					</center>
 				</div>
 			</div>
 		</div>
