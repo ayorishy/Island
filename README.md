@@ -13,9 +13,9 @@
 
 ![Alt](https://repobeats.axiom.co/api/embed/7a435662688447891fadc6fdfc7d28e58af8cbbf.svg "Repobeats analytics image")
 
-## 版本简介：
+## 主题简介：
 
-Version: 0.0.1
+基于 广树 的 [ISLANDO](https://www.wikimoe.com/?post=164) 主题上进行二次修改开发
 
 ## 下载及使用相关：
 
@@ -30,22 +30,16 @@ Version: 0.0.1
 - 在确认你遇到的现象确实是一个 Bug 后，请在 [Issues](https://github.com/Inon1y/typecho-Island-theme/issues/new/choose) 提交问题，并为该问题尽可能的描述清楚，
 按照提供的 issue 模板进行填写，谢谢配合。
 
+## 更新日志：
 
+## 20230523 v0.1.1
++ 支持自定义 CDN 域名
++ 支持读取 Post Views Counter 插件的阅读量数据
++ 修复未审核评论被显示的问题
++ 修复评论分页问题
++ 其他改进与修复
 
+# 捐赠
+如果你觉得 Island 主题不错，可以请我一杯咖啡来支持我的开发。
 
-
-
-
-
-
-
-
-
-
-基于 广树 的 [ISLANDO](https://www.wikimoe.com/?post=164) 主题上进行二次修改开发 =.=
-
-前辈做得已经非常厉害了，所以我只是将这个主题继续拓宽 :)
-
-主题使用说明以及更新暂时在：<https://blog.nonly.cn/island.html> 更新
-
-希望你喜欢！
+![微信捐赠码](https://img.solstice23.top/2020/03/07/fc4b804bf938b.png)
