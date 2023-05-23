@@ -11,7 +11,7 @@
 
 [![GitHub release](https://img.shields.io/github/v/release/Inon1y/typecho-Island-theme.svg?style=for-the-badge&logo=appveyor)](https://github.com/Inon1y/typecho-Island-theme/releases/latest)[![GitHub Release Date](https://img.shields.io/github/release-date/Inon1y/typecho-Island-theme?style=for-the-badge&logo=appveyor)](https://github.com/mirai-mamori/Sakurairo/releases)![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Inon1y/typecho-Island-theme?style=for-the-badge&logo=appveyor)
 
-
+![Alt](https://repobeats.axiom.co/api/embed/292776675b642d6dc86f264f4b71ed411ee9be91.svg "Repobeats analytics image")
 
 
 
