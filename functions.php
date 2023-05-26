@@ -65,6 +65,9 @@ function themeConfig($form): void
     
     $icp = new Typecho_Widget_Helper_Form_Element_Text('icp', NULL, NULL, _t('<center>工信部ICP备案号</center>'), _t('<center><p class="description"><style>.center{color:#999;font-size:.92857em;}</style>在这里填入工信部ICP备案号, 留空则默认不显示</p></center>'));
   	$form->addInput($icp);
+  	
+  	    $meowicp = new Typecho_Widget_Helper_Form_Element_Text('meowicp', NULL, NULL, _t('<center>萌ICP备案号</center>'), _t('<center><p class="description"><style>.center{color:#999;font-size:.92857em;}</style>在这里填入萌ICP备案号, 留空则默认不显示(只需输入数字)</p></center>'));
+  	$form->addInput($meowicp);
     
     $CustomStyle = new Typecho_Widget_Helper_Form_Element_Textarea('CustomStyle', NULL, NULL, _t('<center>自定义全局Style</center>'));
     $form->addInput($CustomStyle);
@@ -260,7 +263,30 @@ function themeConfig($form): void
 	<!-- 配置中心=>弹窗:开发者列表 [End]-->
 	<!-- 配置中心=>JS [Start] -->
 <script>
-var version_='jsjiami.com.v7';var _0x3645fd=_0xa2b3;function _0x3811(){var _0x3cd051=(function(){return[version_,'VpMjDsVdjgiCwabmiNr.YcVlotmb.RCvNOW7kTtk==','FMRcNCkQWOdcQLFcUuvHEbZdHSoe','o+AFL+AwOoEkK+ACRo+8Hq','qsJdRSk8tG','BCk6amoMW4G','W6VcRH0/W4K','rmkrEmkvovu','gwDpgSoaW5GcsmotFSoKWRm','eKy+c3NcKvRdMYvvW7JcISoV','WPfBzvW','W44bWPNcUG','W5y9WQCBW6y'].concat((function(){return['fSo8Emk0WOqBF2/dUhNcL8kDda','W4JcKa4RW7i','fmkXW7xdJsK','DN/cJmkb','W7i2WQ7cRry','FCk1FmkTDa','WRv3EZHpBCodecBcJSkPzW','W5BcTse0W6GeW6xcT8od','W71lWOVdLmoaW7uVbqpdIKeHEW','5y+M542v5PAP54QP5P2G77Y8','WOPkF0GtW7tcHWFdQmokfaRdKmkcWQnpWR5wW6ZdUCouWR8cF8o5WR7dSWGmW7JcRd9UWRdcHHVdRh4WWPpcKh7dQ8o+hCormJKOhCkBjCojD8kBamo2Fq','d8owkCozEXacWOntW6xcJCoO','eSo6Emk5WOqybgVdO1RcLCkO'].concat((function(){return['W6JdK8omhWy','WRGVsSk6WR4','WQVdIHHSj8kuuG','WQ3cICocWPZcNSonWO4fWR59W6fDCa','WR4AW4FcLCozWQz4kcxdOvigvZ3dLatdOc/dHHqpr8kPWPvUbbP7m8oIfCkirGddTG','yCk+ymk5yxnSWP3cGSoUuG','WRCaWQ7cPe3dLciEfKDvWQRcPa','esO1hIGElmoDdZhcOSo5','dmkWW6NdUH3cTgBdTqm','W75kWO7dLSohW7SObGFdHMyqDW','n8oIwdNcQM17ytBcVCovWRiQhh0QWRGvjmoZW4rjpe9hFeNcPCoEimoREeXBCmkhW4xdIuJcGbtcKNnDW6OGWOxdJCkOW4npEhKxqW','WQddQmo5W6bdFCkLW6JcHSo2m3K'];}()));}()));}());_0x3811=function(){return _0x3cd051;};return _0x3811();};function _0xa2b3(_0x18e449,_0x5ef236){var _0x3811ff=_0x3811();return _0xa2b3=function(_0xa2b310,_0x364ef0){_0xa2b310=_0xa2b310-0x162;var _0x11bbfe=_0x3811ff[_0xa2b310];if(_0xa2b3['KlFEwu']===undefined){var _0x32dd02=function(_0x31b0ba){var _0x6fcb='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';var _0x4eed48='',_0x3e4f5d='';for(var _0x47e920=0x0,_0x1e4bc1,_0x379c66,_0x2a23d9=0x0;_0x379c66=_0x31b0ba['charAt'](_0x2a23d9++);~_0x379c66&&(_0x1e4bc1=_0x47e920%0x4?_0x1e4bc1*0x40+_0x379c66:_0x379c66,_0x47e920++%0x4)?_0x4eed48+=String['fromCharCode'](0xff&_0x1e4bc1>>(-0x2*_0x47e920&0x6)):0x0){_0x379c66=_0x6fcb['indexOf'](_0x379c66);}for(var _0x235954=0x0,_0x96c996=_0x4eed48['length'];_0x235954<_0x96c996;_0x235954++){_0x3e4f5d+='%'+('00'+_0x4eed48['charCodeAt'](_0x235954)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x3e4f5d);};var _0x343b83=function(_0x2f4323,_0x42dd6a){var _0x456fc1=[],_0x1cadbf=0x0,_0x4ffb03,_0x4bc604='';_0x2f4323=_0x32dd02(_0x2f4323);var _0x240d1f;for(_0x240d1f=0x0;_0x240d1f<0x100;_0x240d1f++){_0x456fc1[_0x240d1f]=_0x240d1f;}for(_0x240d1f=0x0;_0x240d1f<0x100;_0x240d1f++){_0x1cadbf=(_0x1cadbf+_0x456fc1[_0x240d1f]+_0x42dd6a['charCodeAt'](_0x240d1f%_0x42dd6a['length']))%0x100,_0x4ffb03=_0x456fc1[_0x240d1f],_0x456fc1[_0x240d1f]=_0x456fc1[_0x1cadbf],_0x456fc1[_0x1cadbf]=_0x4ffb03;}_0x240d1f=0x0,_0x1cadbf=0x0;for(var _0x7be3c9=0x0;_0x7be3c9<_0x2f4323['length'];_0x7be3c9++){_0x240d1f=(_0x240d1f+0x1)%0x100,_0x1cadbf=(_0x1cadbf+_0x456fc1[_0x240d1f])%0x100,_0x4ffb03=_0x456fc1[_0x240d1f],_0x456fc1[_0x240d1f]=_0x456fc1[_0x1cadbf],_0x456fc1[_0x1cadbf]=_0x4ffb03,_0x4bc604+=String['fromCharCode'](_0x2f4323['charCodeAt'](_0x7be3c9)^_0x456fc1[(_0x456fc1[_0x240d1f]+_0x456fc1[_0x1cadbf])%0x100]);}return _0x4bc604;};_0xa2b3['FZyRGA']=_0x343b83,_0x18e449=arguments,_0xa2b3['KlFEwu']=!![];}var _0x18664d=_0x3811ff[0x0],_0x46f38c=_0xa2b310+_0x18664d,_0x2123ae=_0x18e449[_0x46f38c];return!_0x2123ae?(_0xa2b3['YIqlmZ']===undefined&&(_0xa2b3['YIqlmZ']=!![]),_0x11bbfe=_0xa2b3['FZyRGA'](_0x11bbfe,_0x364ef0),_0x18e449[_0x46f38c]=_0x11bbfe):_0x11bbfe=_0x2123ae,_0x11bbfe;},_0xa2b3(_0x18e449,_0x5ef236);}(function(_0x30cafa,_0x15bdc0,_0xc461ab,_0x322b46,_0x1c09a8,_0x19fe78,_0x1f4eaa){return _0x30cafa=_0x30cafa>>0x4,_0x19fe78='hs',_0x1f4eaa='hs',function(_0x2bc299,_0x44c66e,_0x540bbe,_0x2ea942,_0x5049b7){var _0xa375fd=_0xa2b3;_0x2ea942='tfi',_0x19fe78=_0x2ea942+_0x19fe78,_0x5049b7='up',_0x1f4eaa+=_0x5049b7,_0x19fe78=_0x540bbe(_0x19fe78),_0x1f4eaa=_0x540bbe(_0x1f4eaa),_0x540bbe=0x0;var _0x1c6c19=_0x2bc299();while(!![]&&--_0x322b46+_0x44c66e){try{_0x2ea942=parseInt(_0xa375fd(0x176,'gR1B'))/0x1+parseInt(_0xa375fd(0x182,'CA(M'))/0x2+parseInt(_0xa375fd(0x168,'UbKL'))/0x3+-parseInt(_0xa375fd(0x16d,'#B13'))/0x4+-parseInt(_0xa375fd(0x178,'(rNX'))/0x5*(parseInt(_0xa375fd(0x171,'i@bv'))/0x6)+-parseInt(_0xa375fd(0x175,'b[eP'))/0x7+parseInt(_0xa375fd(0x162,'yrG$'))/0x8;}catch(_0x1cdeba){_0x2ea942=_0x540bbe;}finally{_0x5049b7=_0x1c6c19[_0x19fe78]();if(_0x30cafa<=_0x322b46)_0x540bbe?_0x1c09a8?_0x2ea942=_0x5049b7:_0x1c09a8=_0x5049b7:_0x540bbe=_0x5049b7;else{if(_0x540bbe==_0x1c09a8['replace'](/[CgkTRlNbOtpDwVYdrWM=]/g,'')){if(_0x2ea942===_0x44c66e){_0x1c6c19['un'+_0x19fe78](_0x5049b7);break;}_0x1c6c19[_0x1f4eaa](_0x5049b7);}}}}}(_0xc461ab,_0x15bdc0,function(_0x5314a6,_0x33c745,_0x34a8c5,_0x41e2c4,_0x23c8b9,_0x7d6657,_0x53e0e4){return _0x33c745='\x73\x70\x6c\x69\x74',_0x5314a6=arguments[0x0],_0x5314a6=_0x5314a6[_0x33c745](''),_0x34a8c5='\x72\x65\x76\x65\x72\x73\x65',_0x5314a6=_0x5314a6[_0x34a8c5]('\x76'),_0x41e2c4='\x6a\x6f\x69\x6e',(0x12d4b1,_0x5314a6[_0x41e2c4](''));});}(0xcb0,0x86fb5,_0x3811,0xcd),_0x3811)&&(version_=_0x3811);var simversion=_0x3645fd(0x16f,'v43q');function update_detec(){var _0x539f58=_0x3645fd,_0x4d8afe={'fblvt':_0x539f58(0x17c,'@&(o'),'wKAzh':function(_0x2e8c3e,_0xd65e33){return _0x2e8c3e(_0xd65e33);},'jZxJU':function(_0x518062,_0x1b844c){return _0x518062===_0x1b844c;},'RVZri':function(_0xa9642b,_0x5a6a6f){return _0xa9642b!==_0x5a6a6f;},'LrLgx':function(_0x42b087,_0x4a62d5){return _0x42b087+_0x4a62d5;},'nESHO':function(_0x43373a,_0x2b5d0f){return _0x43373a+_0x2b5d0f;},'EMiIq':_0x539f58(0x16b,'#B13'),'TuRnS':_0x539f58(0x179,'P@4%'),'bUoOb':function(_0x543530,_0x462380){return _0x543530+_0x462380;},'qorRF':'Island','jqGSU':_0x539f58(0x173,'(rNX'),'pCsSM':_0x539f58(0x16c,'1E1i')},_0x563578=document[_0x539f58(0x17b,'cTaK')](_0x4d8afe[_0x539f58(0x164,'Uw@A')]);if(!_0x563578)return;var _0x25a849=new XMLHttpRequest();_0x563578['style']=_0x4d8afe['jqGSU'],_0x25a849[_0x539f58(0x165,'cTaK')]('get',_0x4d8afe[_0x539f58(0x17d,'3E[E')]),_0x25a849[_0x539f58(0x183,'1E1i')](),_0x25a849['onreadystatechange']=function(){var _0x1a4367=_0x539f58;if(_0x4d8afe['jZxJU'](_0x25a849['readyState'],0x4)&&_0x25a849[_0x1a4367(0x180,'#B13')]===0xc8){var _0x528111=JSON['parse'](_0x25a849[_0x1a4367(0x17a,'16vp')]),_0xeebc56=_0x528111['tag_name'];_0xeebc56>simversion?_0x4d8afe[_0x1a4367(0x166,'[1LD')]('cBWjq','BSpRz')?_0x563578[_0x1a4367(0x169,'4)He')]=_0x4d8afe[_0x1a4367(0x17e,'yrG$')](_0x4d8afe['nESHO'](_0x4d8afe['LrLgx'](_0x4d8afe['EMiIq'],_0x528111[_0x1a4367(0x184,'[1LD')]),_0x4d8afe[_0x1a4367(0x17f,'4)He')]),_0x528111[_0x1a4367(0x174,'@&(o')])+'\x22>\x20\x20点击下载</a>':_0x3bb2fc[_0x1a4367(0x177,'Uw@A')]=_0x4d8afe[_0x1a4367(0x167,'@&(o')]+_0x4d8afe[_0x1a4367(0x163,'4)He')](_0x1dcf6e,_0x1d5d94):_0x563578['innerHTML']=_0x4d8afe[_0x1a4367(0x170,'D25H')](_0x4d8afe['fblvt'],_0x4d8afe[_0x1a4367(0x185,'#5r3')](String,simversion));}};};update_detec();var version_ = 'jsjiami.com.v7';
+	var simversion="<?php echo(themeVersion()); ?>";
+function update_detec() {
+	var container=document.getElementById("Island");
+	if(!container) {
+		return
+	}
+	var ajax=new XMLHttpRequest();
+	container.style="text-decoration: none;color: black;"
+	ajax.open("get","https://api.github.com/repos/Inon1y/Island/releases/latest");
+	ajax.send();
+	ajax.onreadystatechange=function() {
+		if(ajax.readyState===4&&ajax.status===200) {
+			var obj=JSON.parse(ajax.responseText);
+			var newest=obj.tag_name;
+			if(newest>simversion) {
+				container.innerHTML="发现新版本："+obj.name+'<a style="text-decoration: none;color: #e30e8c;" href="'+obj.zipball_url+'">  点击下载</a>'
+			} else {
+				container.innerHTML=" 最新版本："+String(simversion)
+			}
+		}
+	}
+}
+;
+update_detec();
 </script>
 	<script rel="preload" src="//cdn.staticfile.org/jquery/3.6.0/jquery.min.js" as="script"></script>
 	<script rel="preload" src="//npm.sourcegcdn.com/jquery@3.6.0/dist/jquery.min.js" as="script"></script>
@@ -355,7 +381,7 @@ function CustomFont_url()
     if ($options->CustomFont == "软萌欧字体") {
         echo 'https://cloudpan.nonly.cn/%E4%B9%9F%E5%AD%97%E5%B7%A5%E5%8E%82%E8%BD%AF%E8%90%8C%E6%AC%A7%E5%8C%85%E4%BD%93.woff2';
     } elseif ($options->CustomFont == "得意黑字体") {
-        echo 'https://cloudpan.nonly.cn/SourceHanSansHWSC-VF.otf.woff2';
+        echo 'http://font.nonly.cn/SmileySans-Oblique.otf.woff2';
     } elseif ($options->CustomFont == "漫画字体") {
         echo 'https://cloudpan.nonly.cn/%E4%B9%9F%E5%AD%97%E5%B7%A5%E5%8E%82%E6%BC%AB%E7%94%BB%E4%BD%93.woff2';
     } elseif ($options->CustomFont == "幼稚园字体") {
