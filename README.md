@@ -17,7 +17,7 @@
 
 基于 广树 的 [ISLAND](https://www.wikimoe.com/?post=164) 主题上进行二次修改开发
 
-## 下载及使用相关：
+## 下载相关：
 
 - 你可以前往 [Github Release](https://github.com/Inon1y/Island/releases/latest) 下载
 
@@ -30,6 +30,22 @@
 - 在确认你遇到的现象确实是一个 Bug 后，请在 [Issues](https://github.com/Inon1y/Island/issues/new/choose) 提交问题，并为该问题尽可能的描述清楚，
 按照提供的 issue 模板进行填写，谢谢配合。
 
+## 使用相关：
+
+头部导航的英文需要在创建页面的时候建立一个en的字段
+
+![image](https://github.com/Inon1y/Island/assets/91359128/b4478d19-a96a-46b6-a0c6-f0d34542fd8b)
+
+含有归档页面，需要创建页面，并在自定义模版选择“归档”，内容为空
+
+含有分类页面，需要创建页面，并在自定义模版选择“分类”，内容为空
+
+含有友链页面，需要创建页面，请按以下格式进行排版：
+ ![image](https://github.com/Inon1y/Island/assets/91359128/d9ccb2ee-8753-4921-9555-f5d0a562aa55)
+
+- ![][1][慕雪的寒舍@$爱折腾代码的初学者][2]
+ [1]: https://blog.musnow.top/favicon.jpg
+ [2]: https://blog.musnow.top/
 
 ## 捐赠
 如果你觉得 Island 主题不错，可以请我一杯咖啡来支持我的开发。
