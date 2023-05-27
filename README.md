@@ -9,7 +9,7 @@
 
 > 一款二次元风格，轻松上手，体验完善，功能强大的typecho轻量级主题
 
-[![GitHub release](https://img.shields.io/github/v/release/Inon1y/Island.svg?style=for-the-badge&logo=appveyor)](https://github.com/Inon1y/Island/releases/latest)[![GitHub Release Date](https://img.shields.io/github/release-date/Inon1y/Island?style=for-the-badge&logo=appveyor)]![download](https://img.shields.io/github/downloads/Inon1y/typecho-Island-theme/total?style=for-the-badge)(https://github.com/Inon1y/Island/releases)![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Inon1y/Island?style=for-the-badge&logo=appveyor)
+[![GitHub release](https://img.shields.io/github/v/release/Inon1y/Island.svg?style=for-the-badge&logo=appveyor)](https://github.com/Inon1y/Island/releases/latest)[![GitHub Release Date](https://img.shields.io/github/release-date/Inon1y/Island?style=for-the-badge&logo=appveyor)](https://github.com/Inon1y/Island/releases)![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Inon1y/Island?style=for-the-badge&logo=appveyor)![download](https://img.shields.io/github/downloads/Inon1y/typecho-Island-theme/total?style=for-the-badge)
 
 ![Alt](https://repobeats.axiom.co/api/embed/7a435662688447891fadc6fdfc7d28e58af8cbbf.svg "Repobeats analytics image")
 
