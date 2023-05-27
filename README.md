@@ -43,9 +43,5 @@
 含有友链页面，需要创建页面，请按以下格式进行排版：
  ![image](https://github.com/Inon1y/Island/assets/91359128/d9ccb2ee-8753-4921-9555-f5d0a562aa55)
 
-- ![][1][慕雪的寒舍@$爱折腾代码的初学者][2]
- [1]: https://blog.musnow.top/favicon.jpg
- [2]: https://blog.musnow.top/
-
 ## 捐赠
 如果你觉得 Island 主题不错，可以请我一杯咖啡来支持我的开发。
