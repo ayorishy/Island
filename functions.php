@@ -2,7 +2,7 @@
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
 function themeVersion(): string
 {
-    return '0.1.1';
+    return '0.1.2';
 }
 	
 
@@ -68,6 +68,9 @@ function themeConfig($form): void
   	
   	    $meowicp = new Typecho_Widget_Helper_Form_Element_Text('meowicp', NULL, NULL, _t('<center>萌ICP备案号</center>'), _t('<center><p class="description"><style>.center{color:#999;font-size:.92857em;}</style>在这里填入萌ICP备案号, 留空则默认不显示(只需输入数字)</p></center>'));
   	$form->addInput($meowicp);
+  	
+    $linkqq = new Typecho_Widget_Helper_Form_Element_Text('linkqq', NULL, NULL, _t('<center>侧边栏QQ</center>'), _t('<center><p class="description"><style>.center{color:#999;font-size:.92857em;}</style>在这里填入URL链接，留空则默认不显示</p></center>'));
+  	$form->addInput($linkqq);
     
     $CustomStyle = new Typecho_Widget_Helper_Form_Element_Textarea('CustomStyle', NULL, NULL, _t('<center>自定义全局Style</center>'));
     $form->addInput($CustomStyle);
@@ -244,9 +247,9 @@ function themeConfig($form): void
 						<div class="mdui-card shadow-A1 button-ts"
 							 style="background-color: rgb(130 123 123 / 14%);">
 							<div class="mdui-card-header">
-								<a style="text-decoration: none;color: black;" href="https://blog.nonly.cn"><img class="mdui-card-header-avatar"
+								<a style="text-decoration: none;color: black;" href="https://blog.ban.moe"><img class="mdui-card-header-avatar"
 									 src="https://q2.qlogo.cn/headimg_dl?dst_uin=1139074074@qq.com&spec=640" />
-								<div class="mdui-card-header-title">1nonly</div>
+								<div class="mdui-card-header-title">小板</div>
 								<div class="mdui-card-header-subtitle">Island二次开发者</div>
 								</a>
 							</div>
@@ -381,7 +384,7 @@ function CustomFont_url()
     if ($options->CustomFont == "软萌欧字体") {
         echo 'https://cloudpan.nonly.cn/%E4%B9%9F%E5%AD%97%E5%B7%A5%E5%8E%82%E8%BD%AF%E8%90%8C%E6%AC%A7%E5%8C%85%E4%BD%93.woff2';
     } elseif ($options->CustomFont == "得意黑字体") {
-        echo 'http://font.nonly.cn/SmileySans-Oblique.otf.woff2';
+        echo 'https://font.nonly.cn/SmileySans-Oblique.otf.woff2';
     } elseif ($options->CustomFont == "漫画字体") {
         echo 'https://cloudpan.nonly.cn/%E4%B9%9F%E5%AD%97%E5%B7%A5%E5%8E%82%E6%BC%AB%E7%94%BB%E4%BD%93.woff2';
     } elseif ($options->CustomFont == "幼稚园字体") {
